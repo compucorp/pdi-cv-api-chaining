@@ -1,0 +1,27 @@
+{
+    "title": "Additional person data",
+    "name": "additional_person_data",
+    "extends": {
+        "0": "Individual"
+    },
+    "weight": "1",
+    "collapse_display": "1",
+    "style": "Inline",
+    "is_active": "1",
+    "collapse_display": "0",
+    "api.custom_field.create": {
+        "0": {
+            "custom_group_id": "$value.id",
+            "name": "shirt_size",
+            "column_name": "shirt_size",
+            "label": "Shirt size",
+            "html_type": "Text",
+            "data_type": "String",
+            "weight": "1",
+            "text_length": "10",
+            "is_required": "0",
+            "is_searchable": "1",
+            "is_active": "1"
+        }
+    }
+}

@@ -1,0 +1,5 @@
+{"name": "Gold", "domain_id": "1", "member_of_contact_id": "1", "financial_type_id": "2", "duration_unit": "month", "duration_interval": "12", "visibility": "Public", "is_active": "1"} 
+,
+{"name": "Platinum", "domain_id": "1", "member_of_contact_id": "1", "financial_type_id": "2", "duration_unit": "month", "duration_interval": "12", "visibility": "Public", "is_active": "1"} 
+,
+{"name": "Silver", "domain_id": "1", "member_of_contact_id": "1", "financial_type_id": "2", "duration_unit": "month", "duration_interval": "12", "visibility": "Public", "is_active": "1"}
